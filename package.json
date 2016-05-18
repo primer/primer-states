@@ -1,0 +1,25 @@
+{
+  "name": "primer-states",
+  "version": "0.1.0",
+  "description": "GitHub Primer - States",
+  "homepage": "https://github.com/styleguide",
+  "license": "MIT",
+  "repository": "https://github.com/primer/states.git",
+  "main": "states.scss",
+  "bugs": {
+    "url": "https://github.com/primer/states/issues"
+  },
+  "author": "GitHub, Inc.",
+  "scripts": {
+    "test": "scss-lint *.scss"
+  },
+  "dependencies": {
+    "primer-support": "^0.2.0"
+  },
+  "keywords": [
+    "primer",
+    "css",
+    "github",
+    "primercss"
+  ]
+}
