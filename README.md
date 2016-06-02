@@ -7,10 +7,6 @@
 
 This repository is a module of the full [primer-css][primer] repository.
 
-## Documentation
-
-You can read more about states in the [docs][docs].
-
 ## Install
 
 This repository is distributed with [npm][npm]. After [installing npm][install-npm], you can install `primer-states` with this command.
@@ -37,18 +33,45 @@ For a compiled **css** version of this module, a npm script is included that wil
 $ npm run build
 ```
 
-## Related
+## Documentation
 
-* [Primer Documentation][docs]
-* [primer-css][primer]
-* [primer-support][primer-support]
+You can read more about other primer modules in the [full primer docs][docs].
+
+<!-- %docs
+title: States
+-->
+
+### States
+
+States, or state indicators, inform users of the current status of a particular item. Included common states are Open, Closed, or Merged, each requiring it's own modifier class.
+
+#### Open (green)
+
+```html
+<span class="state state-open">Open</span>
+<span class="state state-proposed">Open</span>
+<span class="state state-reopened">Open</span>
+```
+
+#### Closed (red)
+
+```html
+<span class="state state-closed">Closed</span>
+```
+
+#### Merged (purple)
+
+```html
+<span class="state state-merged">Merged</span>
+```
+
+<!-- %enddocs -->
 
 ## License
 
-MIT &copy; [GitHub](https://github.com/)
+[MIT](./LICENSE) &copy; [GitHub](https://github.com/)
 
 [primer]: https://github.com/primer/primer
-[primer-support]: https://github.com/primer/primer-support
 [docs]: http://primercss.io/
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node
