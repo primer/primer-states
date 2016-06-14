@@ -39,6 +39,7 @@ You can read more about other primer modules in the [full primer docs][docs].
 
 <!-- %docs
 title: States
+homepage: https://github.com/primer/states
 -->
 
 ### States
