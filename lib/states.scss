@@ -11,7 +11,7 @@
 .state {
   display: inline-block;
   padding: 4px 8px;
-  font-weight: bold;
+  font-weight: $font-weight-bold;
   line-height: 20px;
   color: $text-white;
   text-align: center;
