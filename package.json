@@ -11,9 +11,9 @@
     "lib",
     "build"
   ],
-  "repository": "https://github.com/primer/states.git",
+  "repository": "https://github.com/primer/primer-states.git",
   "bugs": {
-    "url": "https://github.com/primer/states/issues"
+    "url": "https://github.com/primer/primer-states/issues"
   },
   "scripts": {
     "setup": "if [ ! -d \"node_modules\" ]; then npm install; fi",
