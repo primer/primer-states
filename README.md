@@ -35,15 +35,10 @@ $ npm run build
 
 ## Documentation
 
-You can read more about other primer modules in the [full primer docs][docs].
-
 <!-- %docs
 title: States
-homepage: https://github.com/primer/primer-states
 status: Stable
 -->
-
-### States
 
 States, or state indicators, inform users of the current status of a particular item. Included common states are Open, Closed, or Merged, each requiring it's own modifier class.
 
