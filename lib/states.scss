@@ -22,7 +22,7 @@
 .state-open,
 .state-proposed,
 .state-reopened {
-  background-color: $bg-green;
+  background-color: darken($green-400, 5%);
 }
 
 .state-merged { background-color: $bg-purple; }
