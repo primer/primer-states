@@ -1,3 +1,8 @@
+# v0.4.2
+
+ * update version numbers in primer-product - broccolini [github/github@5301936](https://github.com/github/github/commit/5301936)
+ * update green for text, states, and diff stats - broccolini [github/github@390a574](https://github.com/github/github/commit/390a574)
+
 # v0.4.1
 
  * More versions - Jon Rohan [github/github@e12ba2e](https://github.com/github/github/commit/e12ba2e)
