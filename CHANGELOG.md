@@ -1,3 +1,8 @@
+# v0.4.3
+
+ * bump version numbers - broccolini [github/github@34165ea](https://github.com/github/github/commit/34165ea)
+ * darker read on states for a11y - broccolini [github/github@1a8c77a](https://github.com/github/github/commit/1a8c77a)
+
 # v0.4.2
 
  * update version numbers in primer-product - broccolini [github/github@5301936](https://github.com/github/github/commit/5301936)
