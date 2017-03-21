@@ -1,7 +1,7 @@
 # Primer CSS States
 
 [![NPM version](http://img.shields.io/npm/v/primer-states.svg)](https://www.npmjs.org/package/primer-states)
-[![Build Status](https://travis-ci.org/primer/states.svg?branch=master)](https://travis-ci.org/primer/states)
+[![Build Status](https://travis-ci.org/primer/primer-states.svg?branch=master)](https://travis-ci.org/primer/primer-states)
 
 > States, or state indicators, inform users of the current status of a particular item. Included common states are Open, Closed, or Merged, each requiring it’s own modifier class.
 
